@@ -24,6 +24,7 @@ body {
   border-radius: 12px;
   margin-top: 10px;
   padding: 30px;
+  align-items: center;
 }
 
 /* .profile-section {
@@ -69,4 +70,9 @@ body {
   height: 40px;
   margin: auto;
   border-radius: 4px;
+}
+
+.link-section a:hover {
+  background-color: #651e6a;
+  color: yellow;
 }
